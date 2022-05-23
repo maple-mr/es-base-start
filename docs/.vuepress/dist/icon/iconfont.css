@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "blogfont"; /* Project id 1735491 */
+  src: url('iconfont.woff2?t=1642757885620') format('woff2'),
+       url('iconfont.woff?t=1642757885620') format('woff'),
+       url('iconfont.ttf?t=1642757885620') format('truetype');
+}
+
+.blogfont {
+  font-family: "blogfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.blog-opera:before {
+  content: "\e79d";
+}
+
+.blog-firefox:before {
+  content: "\e6ef";
+}
+
+.blog-safari:before {
+  content: "\e7ee";
+}
+
+.blog-android:before {
+  content: "\e618";
+}
+
+.blog-pc:before {
+  content: "\e8dc";
+}
+
+.blog-hongqi:before {
+  content: "\e641";
+}
+
+.blog-Samsung:before {
+  content: "\e605";
+}
+
+.blog-server:before {
+  content: "\e726";
+}
+
+.blog-ie:before {
+  content: "\e87a";
+}
+
+.blog-p-firefox:before {
+  content: "\e999";
+}
+
+.blog-p-opera:before {
+  content: "\e9a0";
+}
+
+.blog-chrome:before {
+  content: "\e6e7";
+}
+
+.blog-p-chrome:before {
+  content: "\e71f";
+}
+
+.blog-phone:before {
+  content: "\e8b9";
+}
+
+.blog-nodejs:before {
+  content: "\e703";
+}
+
+.blog-deno:before {
+  content: "\eb77";
+}
+
+.blog-edge:before {
+  content: "\ec17";
+}
+
+.blog-p-safari:before {
+  content: "\ec88";
+}
+
+.blog-xing:before {
+  content: "\e604";
+}
+
+.blog-seen:before {
+  content: "\e617";
+}
+
+.blog-search:before {
+  content: "\e678";
+}
+
+.blog-dingwei:before {
+  content: "\e64e";
+}
+
+.blog-email:before {
+  content: "\e64d";
+}
+
+.blog-gitee:before {
+  content: "\e686";
+}
+
+.blog-bilibili:before {
+  content: "\e66d";
+}
+
+.blog-csdn:before {
+  content: "\e600";
+}
+

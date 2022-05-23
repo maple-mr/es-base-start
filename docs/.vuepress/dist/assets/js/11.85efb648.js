@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{424:function(n,t,e){"use strict";e.r(t);var i={name:"jy-timeline",data:function(){return{}}},u=e(23),a=Object(u.a)(i,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("\n    左右形式的时间轴\n")])}),[],!1,null,null,null);t.default=a.exports}}]);
