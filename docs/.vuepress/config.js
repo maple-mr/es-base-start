@@ -42,6 +42,8 @@ module.exports = {
           "/words/class/",
           "/words/classExtend/",
           "/words/module/",
+          "/words/asyncIterator/",
+          "/words/arrayBuffer/",
           "/words/conclusion/"
         ]
     },
