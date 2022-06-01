@@ -1,9 +1,5 @@
----
-home: true
-heroImage: /assets/home.png
-heroText: ES6入门笔记
-tagline: 一篇写给自己的笔记
-actionText: 快速入门 →
-actionLink: /intro/
-footer: Copyright © 李剑一 | @maple 2022-01-18
----
+<p align="center"><img src="http://www.es6.maple.ink/assets/home.png"></p>
+
+<h2 align="center">ES6入门笔记</h2>
+
+<p align="center">一篇写给自己的笔记</p>
