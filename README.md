@@ -1,4 +1,4 @@
-<p align="center"><img src="http://www.es6.maple.ink/assets/home.png"></p>
+<p align="center"><img src="http://www.es6.maple.ink/assets/home.png" style="width: 150px"></p>
 
 <h2 align="center">ES6入门笔记</h2>
 
