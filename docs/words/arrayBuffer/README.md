@@ -25,3 +25,7 @@ ArrayBuffer对象、TypedArray视图、DataView视图是 JavaScript 操作二进
 
 - DataView视图: 可以自定义复合格式的视图。
 
+三个对象的关系：ArrayBuffer对象代表原始的二进制数据，TypedArray视图用来读写简单类型的二进制数据，DataView视图用来读写复杂的二进制数据。
+
+
+

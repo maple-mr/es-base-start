@@ -44,6 +44,7 @@ module.exports = {
           "/words/module/",
           "/words/asyncIterator/",
           "/words/arrayBuffer/",
+          "/words/proposals/",
           "/words/conclusion/"
         ]
     },
