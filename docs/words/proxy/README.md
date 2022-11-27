@@ -219,3 +219,23 @@ let proxy = new Proxy(target, handler);
 Object.setPrototypeOf(proxy, proto);  // 不允许修改
 ```
 
+## revocable()
+
+proxy.revocable() 方法返回一个可取消的Proxy实例，该对象的proxy属性是Proxy的实例，该对象的revoke属性是一个函数，可以取消Proxy实例。
+
+```js
+let target = {},
+    handler = {};
+
+let {proxy, revoke} = Proxy.revocable(target, handler);
+
+proxy.xy = 123;
+proxy.xy;  // 123
+
+revoke();
+
+proxy.xy;  // TypeError
+```
+
+
+
